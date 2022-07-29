@@ -40,12 +40,19 @@ pip install -r requirements.txt
 ## **Directory **Tree****
 
 ├── templates
+
 │   ├── churn.html
+
 ├── Procfile
+
 ├── README.md
+
 ├── churn.py
+
 ├── customer churn.ipynb
+
 ├── telco_model.pkl
+
 ├── requirements.txt
 
 ##
